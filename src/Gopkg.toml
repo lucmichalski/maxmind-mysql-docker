@@ -26,8 +26,8 @@
 
 
 [[constraint]]
-  name = "github.com/oschwald/maxminddb-golang"
-  version = "1.6.0"
+  name = "github.com/oschwald/geoip2-golang"
+  version = "1.4.0"
 
 [prune]
   go-tests = true
